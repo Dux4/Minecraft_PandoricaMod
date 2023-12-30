@@ -1,0 +1,6 @@
+{
+  "parent": "item/generate",
+  "textures": {
+    "layer0": "pandorica_mod:item/pandoricakey"
+  }
+}
