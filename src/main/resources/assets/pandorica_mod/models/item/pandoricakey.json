@@ -1,5 +1,5 @@
 {
-  "parent": "item/generate",
+  "parent": "item/generated",
   "textures": {
     "layer0": "pandorica_mod:item/pandoricakey"
   }

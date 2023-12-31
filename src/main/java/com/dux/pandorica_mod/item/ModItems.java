@@ -13,7 +13,7 @@ public class ModItems {
 
     //Não registre nomes iguais
     public static final RegistryObject<Item> PANDORICA = ITEMS.register("pandoricakey",
-            ()-> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+            ()-> new Item(new Item.Properties().tab(ModCreativeMode.Pandorica_Tab)));
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);
